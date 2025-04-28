@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/280blocker.txt",
+      "destination": "/api/index"
+    }
+  ]
+}
