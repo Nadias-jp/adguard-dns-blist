@@ -2966,4 +2966,3 @@
 # ||cnt.affiliate.fc2.com^
 # ||af-110.com^
 # ||af.moshimo.com^
-# Updated at 20250429_134717
